@@ -26,18 +26,3 @@ A modern, high-performance scroll experience built with React, Tailwind CSS, Len
 | Dynamic Media | Lorem Picsum[cite: 2] |
 
 ---
-
-## Getting Started
-
-### 1. Prerequisites
-
-Make sure you have Node.js 18+ and `npm` (or `pnpm`/`yarn`) installed.
-
-### 2. Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
-npm install
